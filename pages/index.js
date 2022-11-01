@@ -6,18 +6,18 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title></title>
+        <title>Wooo</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="I LOVE YOU KIA!" />
+        <Header title="WOOO" />
         <p className="description">
           <i>FRFR</i>
         </p>
       </main>
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }
