@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="WOOO" />
+        <Header title="I LOVE YOU KIA!" />
         <p className="description">
           <i>FRFR</i>
         </p>
